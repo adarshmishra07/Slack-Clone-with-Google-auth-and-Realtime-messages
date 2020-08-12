@@ -4,7 +4,7 @@ Slack Clone in React Js. Using Google Authentication for Login . Create Differen
 
 ## Working Demo URL 
 
-`https://slack-clone-fefe4.web.app/`
+https://slack-clone-fefe4.web.app/
 
 ## Available Scripts
 
