@@ -2,6 +2,10 @@
 
 Slack Clone in React Js. Using Google Authentication for Login . Create Different Channels and has Realtime Message Functionality .
 
+## Working Demo URL 
+
+`https://slack-clone-fefe4.web.app/`
+
 ## Available Scripts
 
 In the project directory, you can run:
